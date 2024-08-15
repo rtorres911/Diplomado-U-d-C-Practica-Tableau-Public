@@ -2,7 +2,7 @@
 
 ## A continuación, se muestra algunos análisis de datos de la información de recursos humanos de una empresa.
 
-# 1. Se omportó la base de datos HRDataset.csv en Tableau.
+# 1. Se importó la base de datos HRDataset.csv en Tableau.
 
 ![image](https://github.com/user-attachments/assets/c6929f52-29e9-4c3c-be2b-046330bc877a)
 
@@ -41,5 +41,6 @@
 https://public.tableau.com/app/profile/rigoberto.torres.cisneros/viz/Caso_Practico_20240814/Dashboard1?publish=yes
 
 **Publicación de Historia**
+
 https://public.tableau.com/app/profile/rigoberto.torres.cisneros/viz/Caso_Practico_20240814/Historia2?publish=yes
 
